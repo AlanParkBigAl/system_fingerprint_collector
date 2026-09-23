@@ -1,4 +1,4 @@
-# Midtown IT Computer Fingerprint Collector
+# Computer Fingerprint Collector
 
 A small command line tool that collects basic system and network information from a computer and saves it to a CSV file. Built for Midtown IT to keep a simple inventory of the machines it manages.
 
