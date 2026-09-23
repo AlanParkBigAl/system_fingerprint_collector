@@ -1,0 +1,14 @@
+# Byte compiled files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+env/
+
+# Generated scan data, contains real network information
+midtown_computers.csv
+
+# OS specific files
+.DS_Store
+Thumbs.db
