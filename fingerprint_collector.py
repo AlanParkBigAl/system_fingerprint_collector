@@ -12,7 +12,7 @@ import speedtest
 import csv
 import os
 
-CSV_FILE = "midtown_computers.csv"
+CSV_FILE = "computers.csv"
 
 
 # --- SYSTEM INFORMATION FUNCTIONS --- #
@@ -178,7 +178,7 @@ def save_to_csv(data):
 def main_menu():
     # keep showing the menu until the user chooses to exit
     while True:
-        print("\n--- Midtown IT Computer Fingerprint Collector ---")
+        print("\n--- IT Computer Fingerprint Collector ---")
         print("1. Full scan (all information)")
         print("2. Computer Name only")
         print("3. IP Address only")
