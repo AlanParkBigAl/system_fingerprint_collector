@@ -47,7 +47,7 @@ You will see a menu with these options:
 
 Options 2 through 9 print a single piece of information to the screen. Option 1 runs the full scan and appends the result as a new row in midtown_computers.csv. If the file does not exist yet, it is created with a header row.
 
-## Notes on behavior
+## Notes on behaviour
 
 - The script never overwrites old rows. Every full scan adds a new row, even if the same computer was scanned before.
 - If a computer has been scanned before and the new data differs from the last scan, a warning is printed to the console, but the row is still added rather than replacing the old one.
@@ -72,10 +72,3 @@ Options 2 through 9 print a single piece of information to the screen. Option 1 
 
 3. error case
 ![Error handling example](error%20case.png)
-
-
-Before adding any screenshot that shows real IP addresses or MAC addresses, blur or crop that information out first, or capture the screenshot on a test machine instead.
-
-## License
-
-No license has been added yet. Add one such as MIT if you want to make the terms of reuse clear to others.
