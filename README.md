@@ -64,10 +64,13 @@ Options 2 through 9 print a single piece of information to the screen. Option 1 
 
 ## Screenshots
 
+1. menu
 ![Menu](menu.png)
 
+2. sample CSV output
 ![Full scan output](CSV%20output.png)
 
+3. error case
 ![Error handling example](error%20case.png)
 
 
