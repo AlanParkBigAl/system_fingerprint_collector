@@ -1,5 +1,5 @@
 """
-Midtown IT - Computer Fingerprint Collector
+Computer Fingerprint Collector
 Author: Alan Park
 Purpose: Collect system information and store in CSV file
 """
