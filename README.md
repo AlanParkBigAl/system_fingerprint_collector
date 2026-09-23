@@ -64,11 +64,12 @@ Options 2 through 9 print a single piece of information to the screen. Option 1 
 
 ## Screenshots
 
-Add your own screenshots to the screenshots folder and link them here, for example:
+![Menu](menu.png)
 
-![Menu](screenshots/menu.png)
-![Full scan output](screenshots/csv_output.png)
-![Error handling example](screenshots/permission_error.png)
+![Full scan output](CSV%20output.png)
+
+![Error handling example](error%20case.png)
+
 
 Before adding any screenshot that shows real IP addresses or MAC addresses, blur or crop that information out first, or capture the screenshot on a test machine instead.
 
